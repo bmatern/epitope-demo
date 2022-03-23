@@ -14,8 +14,9 @@ Sample files and instructions for a live PIRCHE and HLA-EMMA demo
 
 1) In the home page, choose for SOT (solid organ transplantation) option (top right screen):<img width="1279" alt="HomePage" src="https://user-images.githubusercontent.com/18530731/159687485-8b1dc763-2744-4ce9-b76b-4abd29715d12.png">
 
-2) Choose for multiple patients and upload the input file we provided for you: 
-
+2) Download the input file (in CSV format, stands dor "comma separated values") we provided for you: https://raw.githubusercontent.com/bmatern/epitope-demo/main/CaseStudies/SolidOrgan_1/PIRCHE_Input.csv. Open this file in a new tab in your browser and highlight and copy the values. 
+4) In Pirche home page choose for "Multi Patent" and paste the values the you have copied (from PIRCHE_Input.csv file in step 3). 
+5) 
 
 
 
