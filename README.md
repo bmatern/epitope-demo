@@ -12,8 +12,9 @@ Sample files and instructions for a live PIRCHE and HLA-EMMA demo
 
 # An analysis in PIRCHE 
 
-1) In the home page, choose for SOT (solid organ transplantation) option (top right screen):![HOMEPage](https://user-images.githubusercontent.com/18530731/159513362-2f54e410-757b-4902-9072-0d42fbb6e99c.png)
-2) 
+1) In the home page, choose for SOT (solid organ transplantation) option (top right screen):<img width="1279" alt="HomePage" src="https://user-images.githubusercontent.com/18530731/159687485-8b1dc763-2744-4ce9-b76b-4abd29715d12.png">
+
+2) Choose for multiple patients and upload the input file we provided for you: 
 
 
 
