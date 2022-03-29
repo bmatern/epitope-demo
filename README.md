@@ -26,6 +26,8 @@ Which donor would you prefer to use for this kidney transplantation: a living do
 
 # How to register for PIRCHE
 
+*Ben discussed this with Matthias, probably Ben will make the accounts, as members of "my" lab. The users still need to activate their accounts. I need a list of email addresses.*
+
 1) Go to research.pirche.com
 2) First you have to make an account. It looks as if you need to pay for it, but there is a one-month free trial (indicated with a red band --1 month Free--) , choose for it. That is: first choose for "non-sponsored" and then "On-demand". *Do we need screen shots here? Non-sponsored button is not always available.* 
 3) The account page should be familiar to you: you need to fill in your name, address and choose a password. 
