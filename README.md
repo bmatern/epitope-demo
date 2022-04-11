@@ -11,7 +11,7 @@ This repository contains sample files and instructions for a live PIRCHE and HLA
 
 3) Select [Download ZIP]
 
-4) Extract the .zip file (It might be in your "Downloads" folder)
+4) Extract the .zip file (It might be in your "Downloads" folder) TODO: Get a screenshot in English
 ![image](https://user-images.githubusercontent.com/14239618/162721359-a25908c1-cc50-45f7-9e4a-102e6d0b9222.png)
 
 
