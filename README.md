@@ -12,6 +12,8 @@ This repository contains sample files and instructions for a live PIRCHE and HLA
 3) Select [Download ZIP]
 
 4) Extract the .zip file (It might be in your "Downloads" folder)
+![image](https://user-images.githubusercontent.com/14239618/162721359-a25908c1-cc50-45f7-9e4a-102e6d0b9222.png)
+
 
 # Contents
 
@@ -51,10 +53,11 @@ Which donor would you prefer to use for this kidney transplantation: a living do
 
 # How to register for PIRCHE
 
-*Ben discussed this with Matthias, probably Ben will make the accounts, as members of "my" lab. The users still need to activate their accounts. I need a list of email addresses.*
+We have created temporary accounts to use PIRCHE during EFI 2022, you should have received an email inviting you to join Ben Matern's Laboratory in PIRCHE.com.
+![image](https://user-images.githubusercontent.com/14239618/162724397-9c26a848-fc17-4f4b-a6f9-8f2d90b31599.png)
+Please change your password
 
-1) Go to research.pirche.com
-2) First you have to make an account. It looks as if you need to pay for it, but there is a one-month free trial (indicated with a red band --1 month Free--) , choose for it. That is: first choose for "non-sponsored" and then "On-demand". *Do we need screen shots here? Non-sponsored button is not always available.* 
+
 3) The account page should be familiar to you: you need to fill in your name, address and choose a password. 
 4) After submission, you can directly login and start your first analysis. You will get an email with a contract, please ignore that. *Is this correct?* 
 
