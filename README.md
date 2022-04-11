@@ -21,6 +21,7 @@ It is possible to access all of the files directly here on Github, or optionally
 
 * "Slides" contains power point presentation, with an introduction to the epitope concepts.
 * "CaseStudies" contains the input and output files for PIRCHE and HLA-EMMA analysis
+ * You may still interpret the output files if the software is not avaialable at this moment.
 
 # Case-study
 (provided by Kirsten Geneugelijk) 
@@ -63,7 +64,7 @@ Please change your password.
 
 If there are troubles creating the account
 * We can try to resolve it
-* If it is a larger issue, the PIRCHE analysis output files are also provided in this repository
+* If it is a larger issue, the PIRCHE analysis output files are also provided in this repository [TODO: Add a Link]
 
 # Analysis in PIRCHE 
 
@@ -85,4 +86,4 @@ If there are troubles creating the account
 
 What if you don't have a Windows computer?
 
-* Output files for HLA-EMMA are provided in this repository [Link]
+* Output files for HLA-EMMA are provided in this repository [TODO: Add a Link]
