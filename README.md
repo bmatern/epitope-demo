@@ -54,12 +54,14 @@ Which donor would you prefer to use for this kidney transplantation: a living do
 # How to register for PIRCHE
 
 We have created temporary accounts to use PIRCHE during EFI 2022, you should have received an email inviting you to join Ben Matern's Laboratory in PIRCHE.com.
+
 ![image](https://user-images.githubusercontent.com/14239618/162724397-9c26a848-fc17-4f4b-a6f9-8f2d90b31599.png)
-Please change your password
 
+Please change your password. 
 
-3) The account page should be familiar to you: you need to fill in your name, address and choose a password. 
-4) After submission, you can directly login and start your first analysis. You will get an email with a contract, please ignore that. *Is this correct?* 
+If there are troubles creating the account
+* We can try to resolve it
+* If it is a larger issue, the PIRCHE analysis output files are also provided in this repository
 
 # Analysis in PIRCHE 
 
