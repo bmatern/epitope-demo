@@ -3,11 +3,17 @@ This repository contains sample files and instructions for a live PIRCHE and HLA
 
 # How to Download Demo Files
 
-1) (If you're not already here) Go to the github website in your browser [https://github.com/bmatern/epitope-demo](https://github.com/bmatern/epitope-demo)
+1) (If you're not already here) Go to the github website in your browser:
+[https://github.com/bmatern/epitope-demo](https://github.com/bmatern/epitope-demo)
 
 2) Click the green [Code] button,
+![image](https://user-images.githubusercontent.com/14239618/162716577-22862456-6ecb-48e3-a380-5faf5608ea4a.png)
 
 3) Select [Download ZIP]
+
+4) Extract the .zip file (It might be in your "Downloads" folder)
+
+# Contents
 
 
 
