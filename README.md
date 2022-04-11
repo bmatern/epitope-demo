@@ -3,6 +3,8 @@ This repository contains sample files and instructions for a live PIRCHE and HLA
 
 # How to Download Demo Files
 
+It is possible to access all of the files directly here on Github, or optionally, you may download the files to your own computer, to open them in Excel or another software.
+
 1) (If you're not already here) Go to the github website in your browser:
 [https://github.com/bmatern/epitope-demo](https://github.com/bmatern/epitope-demo)
 
@@ -74,3 +76,13 @@ If there are troubles creating the account
 # How to run HLA-EMMA
 
 1) https://hla-emma.com/
+
+2) Download the software
+
+3) Install it in Windows
+
+4) Do the Analysis and interpret the results
+
+What if you don't have a Windows computer?
+
+* Output files for HLA-EMMA are provided in this repository [Link]
