@@ -1,5 +1,15 @@
 # epitope-demo
-Sample files and instructions for a live PIRCHE and HLA-EMMA demo
+This repository contains sample files and instructions for a live PIRCHE and HLA-EMMA demo
+
+# How to Download Demo Files
+
+1) (If you're not already here) Go to the github website in your browser [https://github.com/bmatern/epitope-demo](https://github.com/bmatern/epitope-demo)
+
+2) Click the green [Code] button,
+
+3) Select [Download ZIP]
+
+
 
 # Case-study
 (provided by Kirsten Geneugelijk) 
