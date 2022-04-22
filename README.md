@@ -71,9 +71,9 @@ If there are troubles creating the account
 1) Login at the [PIRCHE Website](http://www.pirche.com)
 ![image](https://user-images.githubusercontent.com/14239618/164643044-a9509ad8-067c-4787-b7dd-5cba19a8fce8.png)
 
-2) In the home page, choose SOT (solid organ transplantation) option (top right screen):<img width="1279" alt="HomePage" src="https://user-images.githubusercontent.com/18530731/159687485-8b1dc763-2744-4ce9-b76b-4abd29715d12.png">
+2) In the home page, choose "SOT" (solid organ transplantation) option (top right screen), then select "Single Patient":<img width="1279" alt="HomePage" src="https://user-images.githubusercontent.com/18530731/159687485-8b1dc763-2744-4ce9-b76b-4abd29715d12.png">
 
-3) Select "Single Patient". Copy-paste the patient and donor HLA strings from the Case Study above, into the "Input Wizard": <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
+3) Copy-paste the patient and donor HLA strings from the Case Study above, into the "Input Wizard": <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
  
 4) Analyze your results.... 
 
