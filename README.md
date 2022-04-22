@@ -64,23 +64,24 @@ Please change your password.
 
 If there are troubles creating the account
 * We can try to resolve it
-* If it is a larger issue, the PIRCHE analysis output files are also provided in this repository [TODO: Add a Link]
+* If it is a larger issue, the PIRCHE analysis output files are also provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
 
 # Analysis in PIRCHE 
 
 1) Login at the [PIRCHE Website](http://www.pirche.com)
 ![image](https://user-images.githubusercontent.com/14239618/164643044-a9509ad8-067c-4787-b7dd-5cba19a8fce8.png)
 
-2) In the home page, choose "SOT" (solid organ transplantation) option (top right screen), then select "Single Patient":<img width="1279" alt="HomePage" src="https://user-images.githubusercontent.com/18530731/159687485-8b1dc763-2744-4ce9-b76b-4abd29715d12.png">
+2) In the home page, choose "SOT" (solid organ transplantation) option (top right screen), then select "Single Patient":
+![image](https://user-images.githubusercontent.com/14239618/164647747-c53505e8-a246-43e8-94f8-dedfc00a88fc.png)
 
-3) For both Patient and Donors, push the [dna/ser] button to switch to "dna", because our HLA genotypes are DNA-based, not Serological typing.
-![image](https://user-images.githubusercontent.com/14239618/164646056-f474c358-d094-4bd5-94c9-bfbebbae9b05.png)
+3) For both Patient and Donors, push the [dna/ser] button to switch to "dna", because our HLA genotypes are DNA-based, not Serological types.
+![image](https://user-images.githubusercontent.com/14239618/164646914-650bc0f8-e9c3-4812-bf9f-6d0dfe798d44.png)
 
 4) For the Patient, and then the Donors, Copy-paste the patient and donor HLA strings from the Case Study above into the "Input Wizard" fields: <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
  
 5) Analyze your results.... 
 
-# How to run HLA-EMMA
+# Analysis in HLA-EMMA
 
 1) https://hla-emma.com/
 
