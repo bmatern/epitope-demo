@@ -53,8 +53,8 @@ Deceased_2,A*02:01,A*01:01,B*07:02,B*08:01,C*07:01,C*01:02,DRB1*15:01,DRB1*03:01
 These are the three potential donor strings combined:
 
 Father,A\*02:01,A\*02:01,B\*08:01,B\*07:02,C\*06:02,C\*07:01,DRB1\*03:01,DRB1\*13:01,DQB1\*06:02,DQB1\*02:02
-Deceased_1,A*02:01,A*01:01,B*44:03,B*08:01,C*01:02,C*07:02,DRB1*15:01,DRB1*03:01,DQB1*06:02,DQB1*02:01
-Deceased_2,A*02:01,A*01:01,B*07:02,B*08:01,C*07:01,C*01:02,DRB1*15:01,DRB1*03:01,DQB1*06:02,DQB1*02:01
+Deceased_1,A\*02:01,A\*01:01,B\*44:03,B\*08:01,C\*01:02,C\*07:02,DRB1\*15:01,DRB1\*03:01,DQB1\*06:02,DQB1\*02:01
+Deceased_2,A\*02:01,A\*01:01,B\*07:02,B\*08:01,C\*07:01,C\*01:02,DRB1\*15:01,DRB1\*03:01,DQB1\*06:02,DQB1\*02:01
 
 
 Which donor would you prefer to use for this kidney transplantation: a living donor or a deceased donor? Calculate PIRCHE and EMMA scores for each donor to help you make a decision. 
