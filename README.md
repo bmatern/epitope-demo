@@ -73,9 +73,12 @@ If there are troubles creating the account
 
 2) In the home page, choose "SOT" (solid organ transplantation) option (top right screen), then select "Single Patient":<img width="1279" alt="HomePage" src="https://user-images.githubusercontent.com/18530731/159687485-8b1dc763-2744-4ce9-b76b-4abd29715d12.png">
 
-3) Copy-paste the patient and donor HLA strings from the Case Study above, into the "Input Wizard": <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
+3) For both Patient and Donors, push the [dna/ser] button to switch to "dna", because our HLA genotypes are DNA-based, not Serological typing.
+![image](https://user-images.githubusercontent.com/14239618/164646056-f474c358-d094-4bd5-94c9-bfbebbae9b05.png)
+
+4) For the Patient, and then the Donors, Copy-paste the patient and donor HLA strings from the Case Study above into the "Input Wizard" fields: <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
  
-4) Analyze your results.... 
+5) Analyze your results.... 
 
 # How to run HLA-EMMA
 
