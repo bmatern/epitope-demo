@@ -1,6 +1,12 @@
 # epitope-demo
 This repository contains sample files and instructions for a live PIRCHE and HLA-EMMA demo
 
+# Contents
+
+* "Slides" contains power point presentation, with an introduction to the epitope concepts.
+* "CaseStudies" contains the input and output files for PIRCHE and HLA-EMMA analysis
+ * You may still interpret the output files if the software is not available at this moment.
+
 # How to Download Demo Files
 
 It is possible to access all of the files directly here on Github, or optionally, you may download the files to your own computer, to open them in Excel or another software.
@@ -14,12 +20,6 @@ It is possible to access all of the files directly here on Github, or optionally
 3) Extract the .zip file (It might be in your "Downloads" folder) TODO: Get a screenshot in English
 ![image](https://user-images.githubusercontent.com/14239618/162721359-a25908c1-cc50-45f7-9e4a-102e6d0b9222.png)
 
-
-# Contents
-
-* "Slides" contains power point presentation, with an introduction to the epitope concepts.
-* "CaseStudies" contains the input and output files for PIRCHE and HLA-EMMA analysis
- * You may still interpret the output files if the software is not avaialable at this moment.
 
 # Case-study
 (provided by Kirsten Geneugelijk) 
@@ -91,4 +91,4 @@ If there are troubles creating the account
 
 What if you don't have a Windows computer?
 
-* Output files for HLA-EMMA are provided in this repository [TODO: Add a Link]
+* Output files for HLA-EMMA are provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
