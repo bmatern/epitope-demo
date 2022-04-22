@@ -8,12 +8,10 @@ It is possible to access all of the files directly here on Github, or optionally
 1) (If you're not already here) Go to the github website in your browser:
 [https://github.com/bmatern/epitope-demo](https://github.com/bmatern/epitope-demo)
 
-2) Click the green [Code] button,
-![image](https://user-images.githubusercontent.com/14239618/162716577-22862456-6ecb-48e3-a380-5faf5608ea4a.png)
+2) Click the green [Code] button, then Select [Download ZIP]
+![image](https://user-images.githubusercontent.com/14239618/164648242-b41971e9-4a4f-4bd1-a874-cd536928958e.png)
 
-3) Select [Download ZIP]
-
-4) Extract the .zip file (It might be in your "Downloads" folder) TODO: Get a screenshot in English
+3) Extract the .zip file (It might be in your "Downloads" folder) TODO: Get a screenshot in English
 ![image](https://user-images.githubusercontent.com/14239618/162721359-a25908c1-cc50-45f7-9e4a-102e6d0b9222.png)
 
 
