@@ -21,7 +21,7 @@ It is possible to access all of the files directly here on Github, or optionally
 ![image](https://user-images.githubusercontent.com/14239618/162721359-a25908c1-cc50-45f7-9e4a-102e6d0b9222.png)
 
 
-# Case-study
+# Case-study I
 (provided by Kirsten Geneugelijk) 
 
 Patient_O., blood group B, is a 34 year old male who is on kidney dialysis for almost 4 years. He is registered on the active waiting list since September 2016. He has the following HLA typing:
@@ -59,6 +59,26 @@ Deceased_2,A\*02:01,A\*01:01,B\*07:02,B\*08:01,C\*07:01,C\*01:02,DRB1\*15:01,DRB
 
 
 Which donor would you prefer to use for this kidney transplantation: a living donor or a deceased donor? Calculate PIRCHE and EMMA scores for each donor to help you make a decision. 
+
+# Case-study II 
+(provided by Mathias Niemaan) 
+
+For another patient R with the following HLA typing: 
+`
+Patient_R,A*02:01,A*24:02,B*15:01,B*51:01,C*07:04,C*14:02,DRB1*01:01,DRB1*14:54,DQB1*05:01,DQB1*05:03
+`
+We have two donors: 
+`
+D1,A*24:02,A*02:01,B*07:02,B*44:02,C*07:02,C*05:01,DRB1*15:01,DQB1*06:02
+`
+`
+D2,A*02:01,A*03:02,B*15:17,B*51:01,C*07:01,C*15:02,DRB1*13:02,DQB1*06:04
+`
+As you see both donors are rather similar: HLA-DR and HLA-DQ are homozygous, so not a lot of PIRCHE-II are to be expected. 
+Moreover, both donors have only two matches on Class I - besides from that fully mismatched.
+
+Run PIRCHE analysis for these donors to see if indeed these two donors are as likely to be succesfull transplantation candidates. 
+
 
 # How to register for PIRCHE
 
