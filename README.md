@@ -98,8 +98,7 @@ Deceased_1,A\*02:01,A\*01:01,B\*44:03,B\*08:01,C\*01:02,C\*07:02,DRB1\*15:01,DRB
 Deceased_2,A\*02:01,A\*01:01,B\*07:02,B\*08:01,C\*07:01,C\*01:02,DRB1\*15:01,DRB1\*03:01,DQB1\*06:01,DQB1\*02:01  
 
 
-Which donor would you prefer to use for this kidney transplantation: a living donor or a deceased donor? Calculate PIRCHE and EMMA scores for each donor to help you make a decision. 
-
+Which donor would you prefer to use for this kidney transplantation? 
 # Case-study II 
 (provided by Mathias Niemaan) 
 
@@ -125,6 +124,6 @@ D2,A*02:01,A*03:02,B*15:17,B*51:01,C*07:01,C*15:02,DRB1*13:02,DQB1*06:04
 As you see both donors are rather similar: HLA-DR and HLA-DQ are homozygous, so not a lot of PIRCHE-II are to be expected. 
 Moreover, both donors have only two matches on Class I - besides from that fully mismatched.
 
-Run PIRCHE and HLA-EMMA analysis for these donors to see if indeed these two donors are as likely to be succesfull transplantation candidates. 
+Are these two donors as likely to be succesfull transplantation candidates. 
 
 
