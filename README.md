@@ -105,7 +105,9 @@ For another patient R with the following HLA typing:
 `
 Patient_R,A*02:01,A*24:02,B*15:01,B*51:01,C*07:04,C*14:02,DRB1*01:01,DRB1*14:54,DQB1*05:01,DQB1*05:03
 `
+
 We have two donors: 
+
 `
 D1,A*24:02,A*02:01,B*07:02,B*44:02,C*07:02,C*05:01,DRB1*15:01,DQB1*06:02
 `
