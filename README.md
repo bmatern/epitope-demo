@@ -111,7 +111,7 @@ If there are troubles creating the account
 
 1) Go to https://hla-emma.com/ to download the software. The software runs only in Windows. 
 
-2) The steps of the analysis are explained in detail in [this file](https://github.com/bmatern/epitope-demo/tree/main/EMMA\ manuals/HLA-EMMAv1.06\ analysis\ manual.pdf)
+2) The steps of the analysis are explained in detail in [this file](https://github.com/bmatern/epitope-demo/tree/main/EMMA\ manuals/)
 
 4) Do the Analysis and interpret the results
 
