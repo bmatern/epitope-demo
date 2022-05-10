@@ -17,7 +17,8 @@ It is possible to access all of the files directly here on Github, or optionally
 2) Click the green [Code] button, then Select [Download ZIP]
 ![image](https://user-images.githubusercontent.com/14239618/164648242-b41971e9-4a4f-4bd1-a874-cd536928958e.png)
 
-3) Extract the .zip file (It might be in your "Downloads" folder) ![Unzip](https://user-images.githubusercontent.com/18530731/167640956-252df846-5db2-433a-96fd-520d23bd6a13.png)
+3) Extract the .zip file (It might be in your "Downloads" folder) ![UnzipDemo](https://user-images.githubusercontent.com/18530731/167641551-014a4892-02d0-4bcd-a5d1-4e98c96637a8.png)
+
 
 
 
