@@ -21,6 +21,44 @@ It is possible to access all of the files directly here on Github, or optionally
 ![image](https://user-images.githubusercontent.com/14239618/162721359-a25908c1-cc50-45f7-9e4a-102e6d0b9222.png)
 
 
+
+# How to register for PIRCHE
+
+We have created temporary accounts to use PIRCHE during EFI 2022, you should have received an email inviting you to join Ben Matern's Laboratory in PIRCHE.com.
+
+![image](https://user-images.githubusercontent.com/14239618/162724397-9c26a848-fc17-4f4b-a6f9-8f2d90b31599.png)
+
+Please change your password. 
+
+If there are troubles creating the account
+* We can try to resolve it
+* If it is a larger issue, the PIRCHE analysis output files are also provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
+
+# Analysis in PIRCHE 
+
+1) Login at the [PIRCHE Website](http://www.pirche.com)
+![image](https://user-images.githubusercontent.com/14239618/164643044-a9509ad8-067c-4787-b7dd-5cba19a8fce8.png)
+
+2) In the home page, choose "SOT" (solid organ transplantation) option (top right screen), then select "Single Patient":
+![image](https://user-images.githubusercontent.com/14239618/164647747-c53505e8-a246-43e8-94f8-dedfc00a88fc.png)
+
+3) For both Patient and Donors, push the [dna/ser] button to switch to "dna", because our HLA genotypes are DNA-based, not Serological types. The default for PIRCHE program is serological types ("ser") and therefore before you switch to "dna", the program will give an error message. 
+![image](https://user-images.githubusercontent.com/14239618/164646914-650bc0f8-e9c3-4812-bf9f-6d0dfe798d44.png)
+
+4) For the Patient, and then the Donors, Copy-paste the patient and donor HLA strings from the Case Study above into the "Input Wizard" fields: <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
+ 
+5) Analyze your results.... 
+
+# Analysis in HLA-EMMA
+
+1) Go to https://hla-emma.com/ to download the software. The software runs only in Windows. In the webpage of HLA-EMMA there is a temporary licence for the tutorial (valid until 1st of June 2022), which you can use to finalize your installation. If you need help with installation, please check the [manual](https://github.com/bmatern/epitope-demo/blob/main/EMMA%20manuals/HLA-EMMA%20v1.06%20manual.pdf)
+
+2) The steps of the HLA-EMMA analysis are explained in detail in [this file](https://github.com/bmatern/epitope-demo/blob/main/EMMA%20manuals/HLA-EMMA%20v1.06%20analysis%20manual.pdf)
+
+What if you don't have a Windows computer?
+
+* Output files for HLA-EMMA are provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
+
 # Case-study I
 (provided by Kirsten Geneugelijk) 
 
@@ -74,47 +112,14 @@ D1,A*24:02,A*02:01,B*07:02,B*44:02,C*07:02,C*05:01,DRB1*15:01,DQB1*06:02
 `
 D2,A*02:01,A*03:02,B*15:17,B*51:01,C*07:01,C*15:02,DRB1*13:02,DQB1*06:04
 `
+
+These are the two potential donor strings combined:
+D1,A*24:02,A*02:01,B*07:02,B*44:02,C*07:02,C*05:01,DRB1*15:01,DQB1*06:02
+D2,A*02:01,A*03:02,B*15:17,B*51:01,C*07:01,C*15:02,DRB1*13:02,DQB1*06:04
+
 As you see both donors are rather similar: HLA-DR and HLA-DQ are homozygous, so not a lot of PIRCHE-II are to be expected. 
 Moreover, both donors have only two matches on Class I - besides from that fully mismatched.
 
-Run PIRCHE analysis for these donors to see if indeed these two donors are as likely to be succesfull transplantation candidates. 
+Run PIRCHE and HLA-EMMA analysis for these donors to see if indeed these two donors are as likely to be succesfull transplantation candidates. 
 
 
-# How to register for PIRCHE
-
-We have created temporary accounts to use PIRCHE during EFI 2022, you should have received an email inviting you to join Ben Matern's Laboratory in PIRCHE.com.
-
-![image](https://user-images.githubusercontent.com/14239618/162724397-9c26a848-fc17-4f4b-a6f9-8f2d90b31599.png)
-
-Please change your password. 
-
-If there are troubles creating the account
-* We can try to resolve it
-* If it is a larger issue, the PIRCHE analysis output files are also provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
-
-# Analysis in PIRCHE 
-
-1) Login at the [PIRCHE Website](http://www.pirche.com)
-![image](https://user-images.githubusercontent.com/14239618/164643044-a9509ad8-067c-4787-b7dd-5cba19a8fce8.png)
-
-2) In the home page, choose "SOT" (solid organ transplantation) option (top right screen), then select "Single Patient":
-![image](https://user-images.githubusercontent.com/14239618/164647747-c53505e8-a246-43e8-94f8-dedfc00a88fc.png)
-
-3) For both Patient and Donors, push the [dna/ser] button to switch to "dna", because our HLA genotypes are DNA-based, not Serological types. The default for PIRCHE program is serological types ("ser") and therefore before you switch to "dna", the program will give an error message. 
-![image](https://user-images.githubusercontent.com/14239618/164646914-650bc0f8-e9c3-4812-bf9f-6d0dfe798d44.png)
-
-4) For the Patient, and then the Donors, Copy-paste the patient and donor HLA strings from the Case Study above into the "Input Wizard" fields: <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
- 
-5) Analyze your results.... 
-
-# Analysis in HLA-EMMA
-
-1) Go to https://hla-emma.com/ to download the software. The software runs only in Windows. If you need help with installation, please check the [manual](https://github.com/bmatern/epitope-demo/blob/main/EMMA%20manuals/HLA-EMMA%20v1.06%20manual.pdf)
-
-2) The steps of the HLA-EMMA analysis are explained in detail in [this file](https://github.com/bmatern/epitope-demo/blob/main/EMMA%20manuals/HLA-EMMA%20v1.06%20analysis%20manual.pdf)
-
-4) Do the Analysis and interpret the results
-
-What if you don't have a Windows computer?
-
-* Output files for HLA-EMMA are provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
