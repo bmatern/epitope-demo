@@ -68,7 +68,7 @@ Patient_O., blood group B, is a 34 year old male who is on kidney dialysis for a
 Patient_O,A*02:01,A*01:01,B*07:02,B*08:01,C*07:01,C*07:02,DRB1*15:01,DRB1*03:01,DQB1*06:02,DQB1*02:01
 `
 
-The patient is not immunized, which means that he doesn’t have detectable levels of preformed HLA antibodies. The father of patient O. (Donor O) is willing to donate her kidney to his son, but donor O has blood group A. The HLA typing of donor O. is the following:
+The patient is not immunized, which means that he doesn’t have detectable levels of preformed HLA antibodies. The father of patient O. is willing to donate her kidney to his son. The HLA typing of the father is the following:
 
 `
 Father,A*02:01,A*02:01,B*08:01,B*07:02,C*06:02,C*07:01,DRB1*03:01,DRB1*13:01,DQB1*06:02,DQB1*02:02
@@ -76,13 +76,13 @@ Father,A*02:01,A*02:01,B*08:01,B*07:02,C*06:02,C*07:01,DRB1*03:01,DRB1*13:01,DQB
 
 In the meantime the patient O. is still registered on the active kidney transplantation waiting list. At a certain time the patient get two deceased donor kidney offers.
 
-Deceased donor 1 (blood group B) has the following HLA typing:
+Deceased donor 1 has the following HLA typing:
 
 `
 Deceased_1,A*02:01,A*01:01,B*44:03,B*08:01,C*01:02,C*07:02,DRB1*15:01,DRB1*03:01,DQB1*06:02,DQB1*02:01
 `
 
-Deceased donor 2 (blood group B) has the following HLA typing:
+Deceased donor 2 has the following HLA typing:
 
 `
 Deceased_2,A*02:01,A*01:01,B*07:02,B*08:01,C*07:01,C*01:02,DRB1*15:01,DRB1*03:01,DQB1*06:02,DQB1*02:01
