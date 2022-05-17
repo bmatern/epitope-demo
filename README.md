@@ -90,7 +90,7 @@ Deceased donor 2 has the following HLA typing:
 Deceased_2,A*02:01,A*01:01,B*07:02,B*08:01,C*07:01,C*01:02,DRB1*15:01,DRB1*03:01,DQB1*06:01,DQB1*02:01
 `
 
-These are the three potential donor strings combined:
+These are the three potential donor strings combined **(Copy-Paste this text into Donors Input Wizard)**:
 
 
 Father,A\*02:01,A\*02:01,B\*08:01,B\*07:02,C\*06:02,C\*07:01,DRB1\*03:01,DRB1\*13:01,DQB1\*06:02,DQB1\*02:02  
@@ -102,7 +102,7 @@ Which donor would you prefer to use for this kidney transplantation?
 # Case-study II 
 (provided by Matthias Niemaan) 
 
-For another patient R with the following HLA typing : 
+For another patient R with the following HLA typing **(Copy-Paste this text into Patient Input Wizard)**: 
 `
 Patient_R,A*02:01,A*24:02,B*15:01,B*51:01,C*07:04,C*14:02,DRB1*01:01,DRB1*14:54,DQB1*05:01,DQB1*05:03
 `
@@ -116,7 +116,7 @@ D1,A*24:02,A*02:01,B*07:02,B*44:02,C*07:02,C*05:01,DRB1*15:01,DQB1*06:02
 D2,A*02:01,A*03:02,B*15:17,B*51:01,C*07:01,C*15:02,DRB1*13:02,DQB1*06:04
 `
 
-These are the two potential donor strings combined:
+These are the two potential donor strings combined **(Copy-Paste this text into Donors Input Wizard)**:
 
 D1,A\*24:02,A\*02:01,B\*07:02,B\*44:02,C\*07:02,C\*05:01,DRB1\*15:01,DQB1\*06:02  
 D2,A\*02:01,A\*03:02,B\*15:17,B\*51:01,C\*07:01,C\*15:02,DRB1\*13:02,DQB1\*06:04  
