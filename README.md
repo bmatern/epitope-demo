@@ -34,7 +34,7 @@ Please change your password.
 
 If there are troubles creating the account
 * We can try to resolve it
-* If it is a larger issue, the PIRCHE analysis output files are also provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
+* If it is a larger issue, the PIRCHE analysis output files are also provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies)
 
 # Analysis in PIRCHE 
 
@@ -59,7 +59,7 @@ If there are troubles creating the account
 
 What if you don't have a Windows computer?
 
-* Output files for HLA-EMMA are provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies/SolidOrgan_1)
+* Output files for HLA-EMMA are provided in [this repository](https://github.com/bmatern/epitope-demo/tree/main/CaseStudies)
 
 # Case-study I
 (provided by Kirsten Geneugelijk) 
