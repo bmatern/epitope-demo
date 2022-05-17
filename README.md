@@ -44,11 +44,11 @@ If there are troubles creating the account
 2) In the home page, choose "SOT" (solid organ transplantation) option (top right screen), then select "Single Patient":
 ![image](https://user-images.githubusercontent.com/14239618/164647747-c53505e8-a246-43e8-94f8-dedfc00a88fc.png)
 
-3) For both Patient and Donors, push the [dna/ser] button to switch to "dna", because our HLA genotypes are DNA-based, not Serological types. The default for PIRCHE program is serological types ("ser") and therefore before you switch to "dna", the program will give an error message. 
+3) For the Patient, and then the Donors, Copy-paste the patient and donor HLA strings from the Case Study above into the "Input Wizard" fields: <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
+
+4) For both Patient and Donors, push the [dna/ser] button to switch to "dna", because our HLA genotypes are DNA-based, not Serological types. The default for PIRCHE program is serological types ("ser") and therefore before you switch to "dna", the program will give an error message. 
 ![image](https://user-images.githubusercontent.com/14239618/164646914-650bc0f8-e9c3-4812-bf9f-6d0dfe798d44.png)
 
-4) For the Patient, and then the Donors, Copy-paste the patient and donor HLA strings from the Case Study above into the "Input Wizard" fields: <img width="1271" alt="image" src="https://user-images.githubusercontent.com/18530731/159691608-0046f9d6-4e14-43bc-9499-753007b5750c.png">
- 
 5) Analyze your results.... 
 
 # Analysis in HLA-EMMA
