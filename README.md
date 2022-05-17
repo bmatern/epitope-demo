@@ -64,7 +64,7 @@ What if you don't have a Windows computer?
 # Case-study I
 (provided by Kirsten Geneugelijk) 
 
-Patient_O., blood group B, is a 34 year old male who is on kidney dialysis for almost 4 years. He is registered on the active waiting list since September 2016. He has the following HLA typing:
+Patient_O., blood group B, is a 34 year old male who is on kidney dialysis for almost 4 years. He is registered on the active waiting list since September 2016. He has the following HLA typing **(Copy-Paste this text into Patient Input Wizard)**:
 
 `
 Patient_O,A*02:01,A*01:01,B*07:02,B*08:01,C*07:01,C*07:02,DRB1*15:01,DRB1*03:01,DQB1*06:02,DQB1*02:01
@@ -102,7 +102,7 @@ Which donor would you prefer to use for this kidney transplantation?
 # Case-study II 
 (provided by Matthias Niemaan) 
 
-For another patient R with the following HLA typing: 
+For another patient R with the following HLA typing : 
 `
 Patient_R,A*02:01,A*24:02,B*15:01,B*51:01,C*07:04,C*14:02,DRB1*01:01,DRB1*14:54,DQB1*05:01,DQB1*05:03
 `
