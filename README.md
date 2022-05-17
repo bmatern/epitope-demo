@@ -125,5 +125,5 @@ As you see both donors are rather similar: HLA-DR and HLA-DQ are homozygous, so 
 Moreover, both donors have only two matches on Class I - besides from that fully mismatched.
 
 Are these two donors as likely to be succesfull transplantation candidates. 
-
+ 
 
